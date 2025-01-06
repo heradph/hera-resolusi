@@ -5,3 +5,4 @@ RENCANA HERA
 - belajar php framework
 - belajar css
 - belajar html
+- Database
