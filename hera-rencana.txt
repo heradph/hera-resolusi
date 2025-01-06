@@ -2,7 +2,9 @@ RENCANA HERA
 
 - belajar js
   Framework js
+    angular
+    react
 - belajar php framework
+  laravel
 - belajar css
 - belajar html
-- Database
