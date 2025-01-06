@@ -2,7 +2,10 @@ RENCANA HERA
 
 - belajar js
   Framework js
+    vue
 - belajar php framework
+  Laravel
 - belajar css
 - belajar html
 - Database
+- phyton
